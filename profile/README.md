@@ -9,13 +9,13 @@ More functionality in  the kernel might come with  convenience for the
 developers, but due to the inevitable existence of bugs in every large
 codebase, less functionality in the kernel has the benefits of:
 
-- Security & Privacy  
+- **Security & Privacy**  
     If an operating  system contains less  code, more  people consider
     reading through it, partially  or completely. That results in more
     bugs being found and fixed before  before a bad actor has a chance
     of using it for malicious purposes.
 
-- Stability  
+- **Stability**  
     Malfunctioning  code in a  kernel has  caused partial or  complete
     crashes which wouldn't have happened if there was less code in the
     kernel. If a bad behavior happens isolated in the userspace, those
